@@ -53,7 +53,7 @@ Por exemplo, a resolução da prova 1 de EM306 do professor Delta do segundo sem
   Arquivos gerais que não se encaixam em uma disciplina específica devem ser colocados na pasta [GERAL].
 
   No exemplo da prova P1 de EM306, a estrutura será:
-  > `MECHelp->EM->EM306->PROVAS->DELTA`
+  > `MECHelp->OBRIGATÓRIAS->EM306->PROVAS->DELTA`
 </details>
 
 ---
