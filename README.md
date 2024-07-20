@@ -18,7 +18,7 @@ O CAEM (Centro Acadêmico de Engenharia Mecânica) representa os estudantes do c
 ---
 
 # Próximos Eventos
-[![Eventos](https://github.com/user-attachments/assets/d6e8f608-6fca-4894-80f8-d6493628bef7)](https://www.instagram.com/p/C72JoxXvboW/?igsh=MXJydndrZDZzNDhxaw==)
+[![Eventos](https://github.com/user-attachments/assets/1406213b-739f-4751-9980-9b7ba2131d66)](https://www.instagram.com/p/C72JoxXvboW/?igsh=MXJydndrZDZzNDhxaw==)
 
 Clique na imagem para acessar os detalhes dos próximos eventos.
 
