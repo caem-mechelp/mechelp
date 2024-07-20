@@ -1,4 +1,4 @@
-![Minha Foto](https://github.com/user-attachments/assets/8f9acef8-429e-4533-bdab-ebb262fdd797)
+![Minha Foto](https://github.com/user-attachments/assets/396d6745-650e-4546-8a3e-8ba5cf7dfcc9)
 
 <h1 align="center">SEJAM TODOS BEM-VINDOS AO NOSSO REPOSITÓRIO!</h1>
 
